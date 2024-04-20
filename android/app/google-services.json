@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422386866717",
+    "project_id": "cit-efood",
+    "storage_bucket": "cit-efood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422386866717:android:ed295337addd2ade0304f4",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.efood.table"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgc7U3TfV_JHzOMCpOL72ykGWkOr8FJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422386866717:android:51b1d8fc4327a7270304f4",
+        "android_client_info": {
+          "package_name": "com.sixamtech.efood_kitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgc7U3TfV_JHzOMCpOL72ykGWkOr8FJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

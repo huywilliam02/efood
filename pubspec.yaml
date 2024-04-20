@@ -1,0 +1,65 @@
+name: citgroupvn_efood_table
+description: A new Flutter application.
+publish_to: 'none' #
+version: 1.0.0+0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+  get: ^4.6.5
+  intl: ^0.17.0
+  shared_preferences: ^2.0.15
+  connectivity_plus: ^3.0.2
+  firebase_core: ^2.2.0
+  firebase_messaging: ^14.1.0
+  flutter_local_notifications: ^12.0.3
+  path_provider: ^2.0.11
+  url_strategy: ^0.2.0
+  image_picker: ^0.8.5+3
+  cached_network_image: ^3.2.2
+  lottie: ^3.1.0
+  flutter_custom_clippers: ^2.0.0
+  youtube_player_flutter: ^8.1.0
+  carousel_slider: ^4.1.1
+  shimmer: ^2.0.0
+  fluttertoast: ^8.0.9
+  getwidget: ^3.0.1
+  expandable_text: ^2.3.0
+  http: ^1.2.1
+  photo_view: ^0.14.0
+  google_fonts: ^6.2.1
+  flutter_screenutil: ^5.9.0
+  rxdart: ^0.27.7
+  ionicons: ^0.2.2
+  dio: ^5.4.1
+  hive_flutter: ^1.1.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/language/
+    - assets/animations/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/font/Roboto-Regular.ttf
+          weight: 400
+        - asset: assets/font/Roboto-Medium.ttf
+          weight: 500
+        - asset: assets/font/Roboto-Bold.ttf
+          weight: 700
+        - asset: assets/font/Roboto-Black.ttf
+          weight: 900
